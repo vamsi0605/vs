@@ -15,3 +15,21 @@ This Repository contains git and github files
 ***FOR BOTH BOLD AND ITALIC***
 
 [Google](https://www.google.com/)
+
+[Syntaxes for github](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+![leo](https://i.pinimg.com/736x/82/7f/f1/827ff1d476b980542b42dcc9f7551d29.jpg)
+
+* Fruits
+  * Mangoes
+  * Bananas
+  * Apples
+1. Vegetables
+    1. Onions
+    2. Carrots
+    3. Tomatoes
+  
+ Table 1 | Table 2
+ -----------|------------
+ Name|Roll no
+
